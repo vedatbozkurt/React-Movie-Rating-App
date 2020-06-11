@@ -1,6 +1,6 @@
-## Backend files and screens [Laravel Rate Movie App](https://github.com/vedatbozkurt/Lavu-Rate-Movies).
+### Backend files and screens: [Laravel Rate Movie App](https://github.com/vedatbozkurt/Lavu-Rate-Movies).
 
-## Frontend project includes router, hooks, axios, bootstrap features.
+### Frontend project includes router, hooks, axios, bootstrap features.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
